@@ -1,0 +1,34 @@
+{
+
+  "params":
+
+  {
+
+    "local_server" : "True",
+    "local_uri" : "mysql://root:@localhost/codingthund",
+    "prod_uri" : "mysql://root:@localhost/codingthund",
+    "fb_url" : "https://www.facebook.com/codewithvinay/",
+    "twitter_url" : "https://twitter.com/codethund",
+    "git_url" : " https://github.com/Coding-Thunder",
+    "home_headline" : "Coding Thunder",
+    "home_tagline" : "Technical...Practical...Theoretically Interesting.",
+    "about_headline" : "About me",
+    "about_tagline" : "Python Developer.",
+    "post_headline" : "Man must explore, and this is exploration at its greatest",
+    "post_tagline" : "Python tutorials",
+    "contact_headline" : "Contact me",
+    "contact_tagline" : "Have questions? I have answers.",
+    "gmail-user" : "vinaymaheshwari35@gmail.com",
+    "gmail-pass" : "COVID-19",
+    "about_text" : "Hello my name is vinay and I'm a python developer I learnt to Code from a California based software developer and author CoryAlthof.",
+    "about_text2" : "I welcome you to my web application I created this web application using python's flask module python is my favorite launguage.",
+    "no_of_post" : 2,
+     "log_in" : "Admin Pannel",
+    "blog_name" : "Coding Thunder",
+    "admin_user" : "vi-nay",
+    "admin_pass" : "maheshwari@1234",
+    "upload_location" : "C:\\Users\\HP\\websi\\static"
+
+  }
+
+}
